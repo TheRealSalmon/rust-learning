@@ -8,7 +8,7 @@ use std::process;
 struct Args {
     #[clap(short, long, help = "The temperature as a unitless decimal value.")]
     temp: f64,
-    #[clap(short, long, help = "The unit of measurement. Accepts 'F' or 'C' only.")]
+    #[clap(short = "-n", long, help = "The unit of measurement. Accepts 'F' or 'C' only.")]
     unit: char,
 }
 
