@@ -1,1 +1,0 @@
-/Users/ozone/Documents/GitHub/rust-learning/smiles/target/debug/smiles: /Users/ozone/Documents/GitHub/rust-learning/smiles/src/main.rs /Users/ozone/Documents/GitHub/rust-learning/smiles/src/periodic_table.rs
